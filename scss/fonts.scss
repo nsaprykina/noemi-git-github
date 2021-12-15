@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'Jost';
+    font-weight: 400;
+    font-style: normal;
+    src: local('Jost'),
+        url('../fonts/Jost-Regular.woff2') format('woff2'),
+        url('../fonts/Jost-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Jost';
+    font-weight: 500;
+    font-style: normal;
+    src: local('Jost'),
+        url('../fonts/Jost-Medium.woff2') format('woff2'),
+        url('../fonts/Jost-Medium.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Jost';
+    font-weight: 600;
+    font-style: normal;
+    src: local('Jost'),
+        url('../fonts/Jost-SemiBold.woff2') format('woff2'),
+        url('../fonts/Jost-SemiBold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Jost';
+    font-weight: 700;
+    font-style: normal;
+    src: local('Jost'),
+        url('../fonts/Jost-Bold.woff2') format('woff2'),
+        url('../fonts/Jost-Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Play';
+    font-weight: 400;
+    font-style: normal;
+    src: local('Play'),
+        url('../fonts/Play-Regular.woff2') format('woff2'),
+        url('../fonts/Play-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Play';
+    font-weight: 700;
+    font-style: normal;
+    src: local('Play'),
+        url('../fonts/Play-Bold.woff2') format('woff2'),
+        url('../fonts/Play-Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Playfair-Display';
+    font-weight: 400;
+    font-style: normal;
+    src: local('Playfair-Display'),
+        url('../fonts/PlayfairDisplay-Regular.woff2') format('woff2'),
+        url('../fonts/PlayfairDisplay-Regular.woff') format('woff');
+}
